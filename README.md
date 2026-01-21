@@ -89,8 +89,6 @@ axi4lite_peripheral/
 │   └── axil_reg_if_tb.v    # Comprehensive testbench (18 tests)
 ├── doc/
 │   ├── DESIGN_GUIDE.md     # Architecture & design decisions
-│   ├── EXAMPLES.md         # Integration patterns
-│   └── SYNTHESIS.md        # Tool-specific guidance
 ├── Makefile                # Build automation (optional)
 ├── VERIFICATION_GUIDE.md   # Complete verification & synthesis guide
 ├── QUICK_REFERENCE.md      # Makefile command reference
