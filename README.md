@@ -540,7 +540,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. 📖 [DESIGN_GUIDE.md](doc/DESIGN_GUIDE.md) - Architecture walkthrough
 2. 🧪 [axil_reg_if_tb.v](tb/axil_reg_if_tb.v) - Test examples and patterns
-3. 🛠️ [SYNTHESIS.md](doc/SYNTHESIS.md) - Tool-specific guidance
 
 ### Troubleshooting
 
