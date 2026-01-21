@@ -190,8 +190,6 @@ vvp build/tb.vvp
 - � **Complete verification guide?** See [VERIFICATION_GUIDE.md](VERIFICATION_GUIDE.md) (step-by-step)
 - 📋 **Quick Makefile reference?** Check [QUICK_REFERENCE.md](QUICK_REFERENCE.md) (1-page)
 - �🔌 **Need GPIO example?** See [gpio_controller.v](rtl/gpio_controller.v) (realistic, commented)
-- 🛠️ **Integrating into tools?** Check [SYNTHESIS.md](doc/SYNTHESIS.md)
-- 💡 **Integration patterns?** See [EXAMPLES.md](doc/EXAMPLES.md)
 
 ### Integrate into Your Project
 
